@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+*.sqlite3/
+env/
+__pycache__/
+media/
+staticfiles/
